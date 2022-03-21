@@ -6,9 +6,3 @@ Sharee Huddleston
 
 #
 "This is a change on newbranch"
-"testbranch change"
-
-#
-
-Second submission
-
